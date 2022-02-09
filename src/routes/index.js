@@ -1,6 +1,6 @@
-const express = require('express')
+const express = require("express");
 
-const router = express.Router()
+const router = express.Router();
 
 // Controller
 // import controller here
@@ -8,5 +8,4 @@ const router = express.Router()
 // Route
 // add route here
 
-
-module.exports = router
+module.exports = router;
